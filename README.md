@@ -1,5 +1,5 @@
 
-# FAAM
+# PLE-NET
 
 faam.jpg
 # Algorithm Introduction
