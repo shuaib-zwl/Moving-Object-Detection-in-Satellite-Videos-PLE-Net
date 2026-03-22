@@ -5,6 +5,11 @@
 # Algorithm Introduction
 we propose the Prediction-Aware Label Evolution Network (PLE-Net). First, we construct a spatiotemporal enhanced backbone to effectively capture motion cues. Second, a region-aware attention mechanism is designed to augment foreground feature represen-tation. Finally, motivated by an analysis of centroid supervision efficacy, we introduce a dynamic label evolution strategy. This strategy employs a diffusion mechanism to facilitate label growth during training, thereby providing precise pixel-level supervision for the objects. Extensive experiments on the VISO benchmark demonstrate that our method achieves an F1 score of 88.0%.
 
+# Prerequisite
+- Python >= 3.8
+- PyTorch >= 1.7.0
+- mmdetection == 2.26.0 (>=2.17.0, <3.0.0)
+  
 # Usage
 ## On Ubuntu
 ### 1. Training on a single GPU
