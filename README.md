@@ -24,5 +24,5 @@ python multi_frame_test.py configs/plenet.py <权重路径> --eval\out\...(详�
 python hieum_eval_.py
 ```
 # Data
-The dataset comes from VISO, with the test dataset being a relabeled version of Hieum's dataset. you can download it from [![下载地址]([[[h11ttps://img.shields.io/badge/下载地址-百度网盘-blue](https://github.com/ChaoXiao12/Moving-object-detection-in-satellite-videos-HiEUM/tree/main)]()] Thanks to X. 
-The trained weight is available at [BaiduYun](Sharing code: bxwv). You can download the model and put it to the weights folder.
+The dataset comes from VISO, with the test dataset being a relabeled version of Hieum's dataset. you can download it from [github](https://github.com/ChaoXiao12/Moving-object-detection-in-satellite-videos-HiEUM/tree/main) Thanks to Xiao. 
+The trained weight and test result is available at [BaiduYun]()(Sharing code: ). You can download the model and put it to the weights folder.
